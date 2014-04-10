@@ -1,1 +1,3 @@
-README
+Ubuntu 
+
+lsb_release
