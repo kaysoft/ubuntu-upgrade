@@ -1,5 +1,7 @@
-FROM ubuntu
+FROM kaysoft/trusty
 MAINTAINER Raja Chandupatla, eval@kaysoft.com
 
-RUN lsb_release -a
+RUN apt-get update
+RUN apt-get upgrade -y
+
 
