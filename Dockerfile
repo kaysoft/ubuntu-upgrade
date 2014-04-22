@@ -1,4 +1,4 @@
-FROM kaysoft/ubuntu-14.04
+FROM       kaysoft/ubuntu-14.04
 
 MAINTAINER Raja Chandupatla, eval@kaysoft.com
 
